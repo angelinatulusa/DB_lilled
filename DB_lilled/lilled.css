@@ -1,0 +1,12 @@
+div#meny{
+    padding: 30px;
+    float:left;
+    background-color: thistle;
+}
+div#sisu{
+    padding: 30px;
+    float:left;
+    margin-left: 3%;
+    border-left:dotted 2px grey;
+    background-color: #e0e0ff;
+}
